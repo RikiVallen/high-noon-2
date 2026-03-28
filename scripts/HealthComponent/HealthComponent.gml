@@ -6,7 +6,6 @@ function HealthComponent(owner, stats) constructor {
 	takeHealth = function(health) {
 		_currentHp = max(0, _currentHp - health)
 		if (_currentHp <= 0) {
-			show_debug_message("Should DIE")
 			instance_destroy(_owner)
 		}
 	}

@@ -2,12 +2,14 @@
 function KnifeData(owner) : AbilityData() constructor {
 	self.owner = owner.id
 	name = "Knife"
-	speed = 10
+	hp = 1
+	speed = 15
 	damage = 5
-	maxRange = 24
-	cooldown = 0.5
-	effectRate = 0.1
-	lifespan = 0
+	maxRange = 36
+	cooldown = 0.3
+	effectRate = 1
+	lifespan = 100
+	targetType = TargetType.Target
 	
 	return self
 }

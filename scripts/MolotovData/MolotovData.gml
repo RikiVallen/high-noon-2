@@ -2,11 +2,13 @@
 function MolotovData(owner) : AbilityData() constructor {
 	self.owner = owner.id
 	name = "Molotov"
-	speed = 7
+	speed = 10
+	hp = 5
 	damage = 1
-	effectRate = 0.1
-	cooldown = 0.3
-	maxRange = 128
+	effectRate = 0.3
+	cooldown = 0.5
+	maxRange = 64
+	targetType = TargetType.AOE
 	lifespan = 5
 	
 	return self
