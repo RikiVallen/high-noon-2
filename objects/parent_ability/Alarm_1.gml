@@ -1,0 +1,1 @@
+alarm[EFFECT_TARGET_ALARM] = effectRate

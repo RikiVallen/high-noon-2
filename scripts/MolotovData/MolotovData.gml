@@ -5,7 +5,7 @@ function MolotovData(owner) : AbilityData() constructor {
 	speed = 10
 	hp = 5
 	damage = 1
-	effectRate = 0.3
+	effectRate = 30
 	cooldown = 0.5
 	maxRange = 64
 	targetType = TargetType.AOE

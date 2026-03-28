@@ -6,5 +6,4 @@ if (_owner.object_index != other.object_index) {
 		array_push(_targets, other)
 		_effect()
 	}
-
 }

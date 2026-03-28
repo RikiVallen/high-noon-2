@@ -1,3 +1,2 @@
-Figure out automated mechanics
-	Molotov
-	Knife
+Need two alarms - one for ability effect (do damage to target every x second)
+Other alarm is to take health from effect every 1 second
