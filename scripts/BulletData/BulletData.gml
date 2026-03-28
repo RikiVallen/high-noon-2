@@ -4,8 +4,8 @@ function BulletData(owner) : AbilityData() constructor {
 	
 	name = "Bullet"
 	damage = 1
-	hp =  2
-	effectRate = 1
+	hp =  1
+	effectRate = 10
 	effectDelay = 0
 	cooldown = 0.2
 	lifespan = -1

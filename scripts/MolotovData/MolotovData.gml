@@ -9,7 +9,6 @@ function MolotovData(owner) : AbilityData() constructor {
 	cooldown = 0.5
 	maxRange = 64
 	targetType = TargetType.AOE
-	lifespan = 5
 	
 	return self
 }

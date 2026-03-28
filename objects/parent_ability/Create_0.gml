@@ -6,6 +6,9 @@ HEALTH_PER_EFFECT_TICK = 1
 _timer = 0
 _targets = []
 _hitList = []
+_statusEffectedList = []
+
+_queuedToDestroy = false
 
 _effectActive = false
 _owner = owner
@@ -18,7 +21,8 @@ _owner = owner
 healthComponent = new HealthComponent(self, { maxHp: hp })
 
 _effect = function() {
-	alarm[EFFECT_ALARM] = 1
+	if (!_queuedToDestroy) {
+		alarm[EFFECT_ALARM] = 1
+	}
 	alarm[EFFECT_TARGET_ALARM] = 1
-	
 }
