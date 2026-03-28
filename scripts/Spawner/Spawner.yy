@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Spawner",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Spawner",
+  "parent":{
+    "name":"Spawners",
+    "path":"folders/Entities/Spawners.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

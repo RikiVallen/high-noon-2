@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"StructMerge",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StructMerge",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

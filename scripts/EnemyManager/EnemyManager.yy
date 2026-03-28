@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"EnemyManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EnemyManager",
+  "parent":{
+    "name":"Manager",
+    "path":"folders/Manager.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

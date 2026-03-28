@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"KnifeData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"KnifeData",
+  "parent":{
+    "name":"Knife",
+    "path":"folders/Entities/Abilities/Knife.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BulletAttack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BulletAttack",
+  "parent":{
+    "name":"Bullet",
+    "path":"folders/Entities/Abilities/Bullet.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

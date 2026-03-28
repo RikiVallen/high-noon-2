@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HealthUI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HealthUI",
+  "parent":{
+    "name":"Debug",
+    "path":"folders/Scripts/Debug.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

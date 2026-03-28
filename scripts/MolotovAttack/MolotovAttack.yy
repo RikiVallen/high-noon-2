@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MolotovAttack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MolotovAttack",
+  "parent":{
+    "name":"Molotov",
+    "path":"folders/Entities/Abilities/Molotov.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

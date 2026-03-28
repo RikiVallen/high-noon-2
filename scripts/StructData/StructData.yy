@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"StructData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StructData",
+  "parent":{
+    "name":"Debug",
+    "path":"folders/Scripts/Debug.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

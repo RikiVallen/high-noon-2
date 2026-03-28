@@ -1,0 +1,1 @@
+manager = new EnemyManager(new Spawner(obj_enemy))
