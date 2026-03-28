@@ -6,4 +6,4 @@ array_foreach(_targets, function(target) {
 	array_push(_hitList, target)
 })
 
-alarm[EFFECT_TARGET_ALARM] = 60
+alarm[EFFECT_ALARM] = 60 
