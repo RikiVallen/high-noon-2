@@ -1,5 +1,5 @@
-healthComponent = new HealthComponent(self, { maxHp: 20 })
+healthComponent = new HealthComponent(self, { maxHp: 8 })
 bulletData = new BulletData(self)
-bulletAttack = new AttackComponent(self, new BulletAttack(), bulletData)
+bulletAttack = new AttackComponent(self, obj_player, new BulletAttack(), bulletData)
 knifeData = new KnifeData(self)
-knifeAttack = new AttackComponent(self, new KnifeAttack(), knifeData)
+knifeAttack = new AttackComponent(self, obj_player, new KnifeAttack(), knifeData)
