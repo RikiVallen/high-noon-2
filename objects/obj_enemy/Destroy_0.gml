@@ -1,0 +1,1 @@
+xpComponent.spawnXp()

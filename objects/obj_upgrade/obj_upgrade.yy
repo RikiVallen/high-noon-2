@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_upgrade",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_upgrade",
   "overriddenProperties":[],
@@ -30,12 +28,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_green",
-    "path":"sprites/spr_green/spr_green.yy",
+    "name":"spr_upgrade",
+    "path":"sprites/spr_upgrade/spr_upgrade.yy",
   },
   "spriteMaskId":{
-    "name":"spr_green",
-    "path":"sprites/spr_green/spr_green.yy",
+    "name":"spr_upgrade",
+    "path":"sprites/spr_upgrade/spr_upgrade.yy",
   },
   "visible":true,
 }

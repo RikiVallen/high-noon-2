@@ -1,5 +1,6 @@
 movement = new PlayerMovement(self)
 healthComponent = new HealthComponent(self, { maxHp: 100 })
+
 bulletData = new BulletData(self)
 molotovData = new MolotovData(self)
 knifeData = new KnifeData(self)

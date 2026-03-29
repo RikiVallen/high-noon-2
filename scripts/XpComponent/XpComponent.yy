@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"XpComponent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"XpComponent",
+  "parent":{
+    "name":"Abilities",
+    "path":"folders/Entities/Abilities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

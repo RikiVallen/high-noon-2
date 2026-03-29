@@ -4,7 +4,7 @@ function BulletData(owner) : AbilityData() constructor {
 	
 	name = "Bullet"
 	damage = 1
-	hp =  1
+	hp =  3
 	effectRate = 10
 	effectDelay = 0
 	cooldown = 0.2
@@ -12,6 +12,8 @@ function BulletData(owner) : AbilityData() constructor {
 	maxRange = -1
 	speed = 10
 	heal = 0
+	
+	autoTrack = false
 	
 	targetType = TargetType.Target
 	

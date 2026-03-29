@@ -2,7 +2,7 @@
 function EnemyManager(spawner) constructor {
 	
 	_timer = 0
-	_cooldown = 1
+	_cooldown = 3
 	_spawner = spawner
 	
 	step = function() {
